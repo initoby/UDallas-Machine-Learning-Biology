@@ -1,0 +1,11 @@
+Welcome to Machine Learning for Biology Summer Course
+COURSE OBJECTIVES
+Upon completion of this course, you will know:
+1. How to input and clean data in Python using the pandas library
+2. How to perform exploratory data analysis in Python
+3. How to use the select libraries in Python for machine learning workflows
+4. How to choose an appropriate machine learning model for the task
+5. How to use supervised machine learning models (SVM, Decision Trees, Neural Networks, etc.)
+for classification tasks
+6. How to use unsupervised machine learning models for clustering tasks
+7. How to evaluate machine learning models and interpret their results
